@@ -1,0 +1,5 @@
+
+npm create vite@latest myapp1
+
+npm install tailwindcss @tailwindcss/vite
+
